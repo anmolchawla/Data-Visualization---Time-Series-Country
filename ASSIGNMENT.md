@@ -7,7 +7,7 @@ Assignment 2. Use UN Data for the same 10 countries of Assignment 1 to create a 
 
 | 	            | Development  	| SVG prototype	| SVG code | Dynamic SVG |
 | ------------- | ------------- | ------------- | -------- | ----------- |
-| Sophisticated	| Demonstrated use of node.js and sound Web development techniques, well documented, shows proficiency in using git | Prototype is well thought showing both relations and quantities | Code cleanly written and debugged | Code cleanly written and debugged |
+| Sophisticated	| Demonstrated use of node.js and sound Web development techniques, well documented, shows proficiency in using git (4-5 pts)| Prototype is well thought showing both relations and quantities (4-5 pts)| Code cleanly written and debugged (4-5 pts)| Code cleanly written and debugged (4-5 pts)|
 | Competent	    | Not using or not demonstrated use of node.js and Web development techniques, some documentation, shows some proficiency in using git  | Prototype shows some thought and/or showing some relations and quantities | Code cleanly written with minor problems | Code cleanly written with minor problems |
 | Needs work	  | Not using node.js and Web editor, poorly or not documented, not using git appropriately | Prototype not well thought and/or not showing relations and quantities | Code not well written and/or not debugged | Code not well written and/or not debugged |
 
