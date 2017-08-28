@@ -6,11 +6,11 @@ Sep 6, 2017 at 2 p.m. sharp. Must be uploaded to GitHub.
 
 ## Description 
 
-* [**SVG prototype**] Pick one attribute from UN Data for the same 10 countries of your Assignment 1 and create a bubble cloud with [Inkscape](http://www.inkscape.org) as an SVG prototype.
-* [**SVG code**] Manually recreate the same bubble cloud using SVG code (i.e., writing SVG yourself, not the SVG created by Inkscape!).
-* [**Dynamic SVG**] In addition, recreate the same bubble cloud using JavaScript (i.e., dynamically generating the SVG).
+* **SVG prototype**: pick one attribute from UN Data for the same 10 countries of your Assignment 1 and create a bubble cloud with [Inkscape](http://www.inkscape.org) as an SVG prototype.
+* **SVG code**: manually recreate the same bubble cloud using SVG code (i.e., writing SVG yourself, not the SVG created by Inkscape!).
+* **Dynamic SVG**: recreate the same bubble cloud using JavaScript (i.e., dynamically generating the SVG).
 * Use node.js to develop and **document** your set-up in `README.md`. There should be a detailed description on how to start the web server from inside the repo.
-* Put all three images in a single HTML page called `index.html`. Describe your data and charts.
+* Put all three images in a single HTML page called `index.html`. Describe your data and charts as needed.
 
 ## Rubric
 
