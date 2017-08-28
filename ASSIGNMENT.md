@@ -10,7 +10,7 @@ Sep 6, 2017 at 2 p.m. sharp. Must be uploaded to GitHub.
 * [**SVG code**] Manually recreate the same bubble cloud using SVG code (i.e., writing SVG yourself, not the SVG created by Inkscape!).
 * [**Dynamic SVG**] In addition, recreate the same bubble cloud using JavaScript (i.e., dynamically generating the SVG).
 * Use node.js to develop and **document** your set-up in `README.md`. There should be a detailed description on how to start the web server from inside the repo.
-* Put all three images in a single HTML page called `index.html`.
+* Put all three images in a single HTML page called `index.html`. Describe your data and charts.
 
 ## Rubric
 
