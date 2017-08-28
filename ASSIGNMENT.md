@@ -1,9 +1,5 @@
 # INF 554 Assignment 2
 
-## Due Date
-
-Sep 6, 2017 at 2 p.m. sharp. Must be uploaded to GitHub.
-
 ## Description 
 
 Create and publish a bubble cloud in three different ways. Use node.js to develop. Document your set-up in `README.md`, i.e., explain how to start the web server. 
@@ -24,5 +20,7 @@ Create three bubble charts in one HTML document:
 
 
 ## Homework Guidelines
-- Homework repository must be updated before the start of the next course. 
+- Homework to be submitted in a week time *before* the start of class.
+- Late homework policy: -10% for each late day, including the day of the course when the homework is due.
+- Commits *after* the submission deadline will not count towards the grade unless requested (late policy may apply).
 - Homework is expected to work in: SAFARI AND CHROME (Mac), IE AND CHROME (Windows)
