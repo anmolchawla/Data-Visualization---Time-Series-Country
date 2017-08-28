@@ -6,11 +6,13 @@ Sep 6, 2017 at 2 p.m. sharp. Must be uploaded to GitHub.
 
 ## Description 
 
-* **SVG prototype**: pick one attribute from UN Data for the same 10 countries of your Assignment 1 and create a bubble cloud with [Inkscape](http://www.inkscape.org) as an SVG prototype.
-* **SVG code**: manually recreate the same bubble cloud using SVG code (i.e., writing SVG yourself, not the SVG created by Inkscape!).
-* **Dynamic SVG**: recreate the same bubble cloud using JavaScript (i.e., dynamically generating the SVG).
-* Use node.js to develop and **document** your set-up in `README.md`. There should be a detailed description on how to start the web server from inside the repo.
-* Put all three images in a single HTML page called `index.html`. Describe your data and charts as needed.
+Create and publish a bubble cloud in three different ways. Use node.js to develop. Document your set-up in `README.md`, i.e., explain how to start the web server. 
+
+Create three bubble charts in one HTML document:
+* **SVG Prototype**: pick one attribute from UN Data for the same 10 countries of your Assignment 1 and create a bubble cloud with [Inkscape](http://www.inkscape.org) as an SVG prototype in prototype.svg. Put in `index.html`.
+* **SVG Code**: manually recreate the same bubble cloud by writing SVG code in `index.html` (i.e., writing SVG yourself, not re-using the SVG created by Inkscape!). Use a `style.css` file.
+* **Dynamic SVG**: recreate the same bubble cloud using JavaScript (i.e., dynamically generating the SVG). Use a `chart.js` file.
+* Describe your data and charts as needed in the page.
 
 ## Rubric
 
