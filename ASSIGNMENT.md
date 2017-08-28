@@ -23,4 +23,4 @@ Create three bubble charts in one HTML document:
 - Homework to be submitted in a week's time *before* the start of class.
 - Late homework policy: 10% penalty over the total grade for the assignment for each late day (including the day of the course when the homework is due).
 - Commits *after* the submission deadline will not count towards the grade unless requested (late policy may apply).
-- Homework is expected to work in: SAFARI AND CHROME (Mac), IE (or Edge) AND CHROME (Windows)
+- Homework is expected to work in: SAFARI AND CHROME (Mac), IE (MS Edge) AND CHROME (Windows)
