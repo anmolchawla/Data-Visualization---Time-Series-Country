@@ -2,7 +2,7 @@
 
 ## Due Date
 
-Sep 6, 2017 before 2 p.m. sharp
+Sep 6, 2017 at 2 p.m. sharp. Must be uploaded to GitHub.
 
 ## Description 
 
