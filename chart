@@ -1,0 +1,13 @@
+var svg = document.getElementById("chart");
+var circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+circle.setAttribute("cx", 33.13855);
+circle.setAttribute("cy", 74.87336);
+circle.setAttribute("r", 27.156639);
+circle.setAttribute("fill", "red");
+svg.appendChild(circle); //append to svg
+var text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+text.setAttribute("style", "text-anchor: middle");
+text.setAttribute("x", 33.13855);
+text.setAttribute("y", 80.636314);
+text.innerHTML = "Text";
+svg.appendChild(text); //append to svg
