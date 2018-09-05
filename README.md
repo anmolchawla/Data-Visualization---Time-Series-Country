@@ -14,11 +14,11 @@ The first step was to install and run node.js so that a local server can be crea
 
 As I was previously involved in web development for another class, I had Node Js pre - installed as shown below.
 
-![ScreenShot](https://github.com/INF554Fall18/a2-anmolchawla/blob/master/Node.js.png?raw=true)
+(-- add image-- )
 
 After that NPM was installed to allow for browser sync, as shown below.
 
-![ScreenShot](https://github.com/INF554Fall18/a2-anmolchawla/blob/master/Browsersync.png?raw=true)
+(-- add image--)
 
 Git was cloned to a local desktop and a commit was made to ensure everything was on the Clasroom page.
 
